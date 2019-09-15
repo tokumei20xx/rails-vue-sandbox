@@ -17,7 +17,7 @@
 
 /* Materialize */
 @import "materialize/components/color-variables";
-$primary-color: color("teal", "accent-3") !default;
-$secondary-color: color("cyan", "base") !default;
+$primary-color: color("light-blue","darken-4") !default;
+$secondary-color: color("black", "base") !default;
 @import 'materialize';
 @import 'material_icons';
